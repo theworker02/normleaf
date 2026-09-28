@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/normleaf",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Norm CSV/TSV leaf tables for quick inspection and cleanup.",
+  "bin": {
+    "normleaf": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/normleaf.git"
+  },
+  "homepage": "https://theworker02.github.io/normleaf/",
+  "keywords": [
+    "norm",
+    "leaf",
+    "csv",
+    "cli",
+    "toolkit"
+  ]
+}
